@@ -2,7 +2,7 @@ title: Your Title
 description: > # this means to ignore newlines until "baseurl:"
   Your description
 baseurl: "/urbanforum" # the subpath of your site, e.g. /blog
-url: "https://ext.mistobuduvannya.net/urbanforum/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 
